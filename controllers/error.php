@@ -1,0 +1,1 @@
+<?php include_once(MODELS."/".$model."_model.php"); ?>
